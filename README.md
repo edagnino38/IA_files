@@ -34,4 +34,4 @@ La siguiente lista muestra el nombre de la hoja y luego el título
 - GRAFICO-9: DISTRIBUCIÓN PORCENTUAL DE PERSONAS CON CASOS POSITIVOS SEGÚN RANGO DE FECHAS Y SEXO DEL DEPARTAMENTO DE CUSCO
 
 # URL del Video explicativo del trabajo
-
+https://www.youtube.com/watch?v=22Py2W40dzo&feature=youtu.be
